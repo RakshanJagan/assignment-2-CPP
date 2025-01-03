@@ -1,0 +1,185 @@
+{
+    "layers": [
+        {
+            "layer_name": "conv2d",
+            "type": "Conv2D",
+            "input_file_path": "D:/MCW/Assignment-1/data/input/conv2d_input.bin",
+            "output_file_path": "D:/MCW/Assignment-1/data/output/conv2d_output.bin",
+            "weights_file_paths": [
+                "D:/MCW/Assignment-1/data/weights/conv2d_kernel.bin",
+                "D:/MCW/Assignment-1/data/weights/conv2d_bias.bin"
+            ],
+            "attributes": {
+                "input_shape": "Unknown",
+                "output_shape": "Unknown",
+                "kernel_size": [
+                    3,
+                    3
+                ],
+                "strides": [
+                    1,
+                    1
+                ],
+                "padding": "same",
+                "activation": "linear"
+            }
+        },
+        {
+            "layer_name": "activation",
+            "type": "Activation",
+            "input_file_path": "D:/MCW/Assignment-1/data/input/activation_input.bin",
+            "output_file_path": "D:/MCW/Assignment-1/data/output/activation_output.bin",
+            "weights_file_paths": [],
+            "attributes": {
+                "input_shape": "Unknown",
+                "output_shape": "Unknown",
+                "activation": "relu"
+            }
+        },
+        {
+            "layer_name": "max_pooling2d",
+            "type": "MaxPooling2D",
+            "input_file_path": "D:/MCW/Assignment-1/data/input/max_pooling2d_input.bin",
+            "output_file_path": "D:/MCW/Assignment-1/data/output/max_pooling2d_output.bin",
+            "weights_file_paths": [],
+            "attributes": {
+                "input_shape": "Unknown",
+                "output_shape": "Unknown",
+                "strides": [
+                    2,
+                    2
+                ],
+                "padding": "valid"
+            }
+        },
+        {
+            "layer_name": "conv2d_1",
+            "type": "Conv2D",
+            "input_file_path": "D:/MCW/Assignment-1/data/input/conv2d_1_input.bin",
+            "output_file_path": "D:/MCW/Assignment-1/data/output/conv2d_1_output.bin",
+            "weights_file_paths": [
+                "D:/MCW/Assignment-1/data/weights/conv2d_1_kernel.bin",
+                "D:/MCW/Assignment-1/data/weights/conv2d_1_bias.bin"
+            ],
+            "attributes": {
+                "input_shape": "Unknown",
+                "output_shape": "Unknown",
+                "kernel_size": [
+                    3,
+                    3
+                ],
+                "strides": [
+                    1,
+                    1
+                ],
+                "padding": "same",
+                "activation": "linear"
+            }
+        },
+        {
+            "layer_name": "activation_1",
+            "type": "Activation",
+            "input_file_path": "D:/MCW/Assignment-1/data/input/activation_1_input.bin",
+            "output_file_path": "D:/MCW/Assignment-1/data/output/activation_1_output.bin",
+            "weights_file_paths": [],
+            "attributes": {
+                "input_shape": "Unknown",
+                "output_shape": "Unknown",
+                "activation": "relu"
+            }
+        },
+        {
+            "layer_name": "max_pooling2d_1",
+            "type": "MaxPooling2D",
+            "input_file_path": "D:/MCW/Assignment-1/data/input/max_pooling2d_1_input.bin",
+            "output_file_path": "D:/MCW/Assignment-1/data/output/max_pooling2d_1_output.bin",
+            "weights_file_paths": [],
+            "attributes": {
+                "input_shape": "Unknown",
+                "output_shape": "Unknown",
+                "strides": [
+                    2,
+                    2
+                ],
+                "padding": "valid"
+            }
+        },
+        {
+            "layer_name": "conv2d_2",
+            "type": "Conv2D",
+            "input_file_path": "D:/MCW/Assignment-1/data/input/conv2d_2_input.bin",
+            "output_file_path": "D:/MCW/Assignment-1/data/output/conv2d_2_output.bin",
+            "weights_file_paths": [
+                "D:/MCW/Assignment-1/data/weights/conv2d_2_kernel.bin",
+                "D:/MCW/Assignment-1/data/weights/conv2d_2_bias.bin"
+            ],
+            "attributes": {
+                "input_shape": "Unknown",
+                "output_shape": "Unknown",
+                "kernel_size": [
+                    3,
+                    3
+                ],
+                "strides": [
+                    1,
+                    1
+                ],
+                "padding": "same",
+                "activation": "linear"
+            }
+        },
+        {
+            "layer_name": "activation_2",
+            "type": "Activation",
+            "input_file_path": "D:/MCW/Assignment-1/data/input/activation_2_input.bin",
+            "output_file_path": "D:/MCW/Assignment-1/data/output/activation_2_output.bin",
+            "weights_file_paths": [],
+            "attributes": {
+                "input_shape": "Unknown",
+                "output_shape": "Unknown",
+                "activation": "relu"
+            }
+        },
+        {
+            "layer_name": "flatten",
+            "type": "Flatten",
+            "input_file_path": "D:/MCW/Assignment-1/data/input/flatten_input.bin",
+            "output_file_path": "D:/MCW/Assignment-1/data/output/flatten_output.bin",
+            "weights_file_paths": [],
+            "attributes": {
+                "input_shape": "Unknown",
+                "output_shape": "Unknown"
+            }
+        },
+        {
+            "layer_name": "dense",
+            "type": "Dense",
+            "input_file_path": "D:/MCW/Assignment-1/data/input/dense_input.bin",
+            "output_file_path": "D:/MCW/Assignment-1/data/output/dense_output.bin",
+            "weights_file_paths": [
+                "D:/MCW/Assignment-1/data/weights/dense_kernel.bin",
+                "D:/MCW/Assignment-1/data/weights/dense_bias.bin"
+            ],
+            "attributes": {
+                "input_shape": "Unknown",
+                "output_shape": "Unknown",
+                "activation": "relu"
+            }
+        },
+        {
+            "layer_name": "dense_1",
+            "type": "Dense",
+            "input_file_path": "D:/MCW/Assignment-1/data/input/dense_1_input.bin",
+            "output_file_path": "D:/MCW/Assignment-1/data/output/dense_1_output.bin",
+            "weights_file_paths": [
+                "D:/MCW/Assignment-1/data/weights/dense_1_kernel.bin",
+                "D:/MCW/Assignment-1/data/weights/dense_1_bias.bin"
+            ],
+            "attributes": {
+                "input_shape": "Unknown",
+                "output_shape": "Unknown",
+                "activation": "softmax"
+            }
+        }
+    ]
+}

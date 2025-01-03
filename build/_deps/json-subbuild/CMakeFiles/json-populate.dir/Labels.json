@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/MCW/Assignment-2/Assignment_2_test/build/_deps/json-subbuild/CMakeFiles/json-populate"
+		},
+		{
+			"file" : "D:/MCW/Assignment-2/Assignment_2_test/build/_deps/json-subbuild/CMakeFiles/f210dbf1715f3a173f7a0faa7277c44f/json-populate.rule"
+		},
+		{
+			"file" : "D:/MCW/Assignment-2/Assignment_2_test/build/_deps/json-subbuild/CMakeFiles/6628b3ea16441f4aaa04deaf1453162b/json-populate-complete.rule"
+		},
+		{
+			"file" : "D:/MCW/Assignment-2/Assignment_2_test/build/_deps/json-subbuild/CMakeFiles/91142f5f6408190fff95e7ab99bcb3c5/json-populate-build.rule"
+		},
+		{
+			"file" : "D:/MCW/Assignment-2/Assignment_2_test/build/_deps/json-subbuild/CMakeFiles/91142f5f6408190fff95e7ab99bcb3c5/json-populate-configure.rule"
+		},
+		{
+			"file" : "D:/MCW/Assignment-2/Assignment_2_test/build/_deps/json-subbuild/CMakeFiles/91142f5f6408190fff95e7ab99bcb3c5/json-populate-download.rule"
+		},
+		{
+			"file" : "D:/MCW/Assignment-2/Assignment_2_test/build/_deps/json-subbuild/CMakeFiles/91142f5f6408190fff95e7ab99bcb3c5/json-populate-install.rule"
+		},
+		{
+			"file" : "D:/MCW/Assignment-2/Assignment_2_test/build/_deps/json-subbuild/CMakeFiles/91142f5f6408190fff95e7ab99bcb3c5/json-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/MCW/Assignment-2/Assignment_2_test/build/_deps/json-subbuild/CMakeFiles/91142f5f6408190fff95e7ab99bcb3c5/json-populate-patch.rule"
+		},
+		{
+			"file" : "D:/MCW/Assignment-2/Assignment_2_test/build/_deps/json-subbuild/CMakeFiles/91142f5f6408190fff95e7ab99bcb3c5/json-populate-test.rule"
+		},
+		{
+			"file" : "D:/MCW/Assignment-2/Assignment_2_test/build/_deps/json-subbuild/CMakeFiles/91142f5f6408190fff95e7ab99bcb3c5/json-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"json-populate"
+		],
+		"name" : "json-populate"
+	}
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeFiles\91142f5f6408190fff95e7ab99bcb3c5\json-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeFiles\91142f5f6408190fff95e7ab99bcb3c5\json-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeFiles\91142f5f6408190fff95e7ab99bcb3c5\json-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeFiles\91142f5f6408190fff95e7ab99bcb3c5\json-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeFiles\91142f5f6408190fff95e7ab99bcb3c5\json-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeFiles\91142f5f6408190fff95e7ab99bcb3c5\json-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeFiles\91142f5f6408190fff95e7ab99bcb3c5\json-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeFiles\91142f5f6408190fff95e7ab99bcb3c5\json-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeFiles\6628b3ea16441f4aaa04deaf1453162b\json-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeFiles\f210dbf1715f3a173f7a0faa7277c44f\json-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\MCW\Assignment-2\Assignment_2_test\build\_deps\json-subbuild\CMakeFiles\json-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{51E2B98E-9A3F-3660-9041-ED86F174087A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

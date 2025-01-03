@@ -1,0 +1,31 @@
+MODEL's FINAL Output:
+
+1/1 ━━━━━━━━━━━━━━━━━━━━ 1s 634ms/step
+Class probabilities:
+Airplane:   0.0011
+Automobile: 0.0000
+Bird:       0.0024
+Cat:        0.0223
+Deer:       0.0000
+Dog:        0.9327
+Frog:       0.0000
+Horse:      0.0024
+Ship:       0.0125
+Truck:      0.0267
+
+Predicted class: Dog with probability: 0.9327
+
+---------------------------------------------
+
+CPP's defined model's Output:
+
+Dense Layer 2 Output: 
+0 0 0 0 0 1 0 0 0 0 
+
+---------------------------------------------
+
+Inference:
+    -> Here both CPP model and TF's model were able to classify the input image as "Dog" class (class: 5).
+    -> Hence this proves that the mathematics that had happened inside the layers in both CPP and the trained model are similar.
+
+_______________________________________________________________________________________________________________________________
