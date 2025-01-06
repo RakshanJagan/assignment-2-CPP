@@ -14,18 +14,21 @@ Ship:       0.0125
 Truck:      0.0267
 
 Predicted class: Dog with probability: 0.9327
-
----------------------------------------------
+___________________________________________________________________________________________________________________________________________________
 
 CPP's defined model's Output:
 
 Dense Layer 2 Output: 
 0 0 0 0 0 1 0 0 0 0 
-
----------------------------------------------
+___________________________________________________________________________________________________________________________________________________
 
 Inference:
     -> Here both CPP model and TF's model were able to classify the input image as "Dog" class (class: 5).
     -> Hence this proves that the mathematics that had happened inside the layers in both CPP and the trained model are similar.
+___________________________________________________________________________________________________________________________________________________
 
-_______________________________________________________________________________________________________________________________
+Model Layer-Wise Outputs:
+    -> The layer-wise outputs of both the TensorFlow model and the CPP model have been pushed for comparison.
+    -> The final output layer of both models aligns perfectly, further validating that the underlying computations and architecture are identical.
+___________________________________________________________________________________________________________________________________________________
+
