@@ -20,7 +20,7 @@ This project demonstrates the implementation of a neural network pipeline using 
 - Intermediate processing outputs for debugging or analysis.
 
 ### Layer Output Visualization
-- Implements a TensorFlow/Keras utility function to visualize the intermediate outputs of all layers in a sequential or functional model.
+- Implements a TensorFlow/Keras utility function to visualize the outputs of layers.
 - Designed to print the first channel of multi-dimensional outputs, aiding in debugging and understanding model transformations.
 
 ### End-to-End Implementation
